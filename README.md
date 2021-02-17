@@ -1,4 +1,4 @@
-<a href="https://ibb.co/6JmBnTK"><img src="https://i.ibb.co/1JL6vPC/mountain-sunrise-1.jpg" alt="mountain-sunrise-1" border="0"></a>
+<img src="https://i.postimg.cc/d062KB0G/3514a0adfb1d9d72c64dd7cd03fdf99e.jpg"/>
 
 # **Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" widht="75" height="35"/> , I'm Shreyansh!** <br>
 -------------------------------------------------------------------------
