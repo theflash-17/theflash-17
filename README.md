@@ -7,7 +7,7 @@
 </a>      
 
 ## About 
-- I am an undergrad pursuing my Bacherlors in Computer Science and Engineering
+- I am an undergrad pursuing my Bachelors in Computer Science and Engineering
 - I am interested in Network Security and AI along with other awesome stuff
 - I like reading books, solving puzzles and playing games
 --------------------------------------------------------------------------------------------
