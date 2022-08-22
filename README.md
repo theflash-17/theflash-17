@@ -10,4 +10,3 @@
 - I am interested in Cybersecurity and AI along with other awesome stuff
 - I like reading books, solving puzzles and playing games
 --------------------------------------------------------------------------------------------
-<img src="https://github-readme-stats.vercel.app/api?username=theflash-17&count_private=true&title_color=1B2CE9&icon_color=FD9047&text_color=0C2233&custom_title=theflash-17's+GitHub+Stats&show_icons=true"/>
